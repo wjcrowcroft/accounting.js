@@ -1,7 +1,9 @@
-**accounting.js** is a tiny JavaScript library for number, money and currency formatting, and excel-style column rendering to line up symbols and decimals. It's lightweight, fully localisable and has zero dependencies.
+**accounting.js** is a tiny JavaScript library for number, money and currency parsing/formatting.
 
 ---
 
-Accounting.js is maintained by Open Exchange Rates:
+## The accounting.js repository has moved:
 
-https://github.com/openexchangerates/accounting.js
+**Homepage and Demo: https://openexchangerates.github.io/accounting.js/**
+
+**GitHub repository: https://github.com/openexchangerates/accounting.js**
